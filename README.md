@@ -1,11 +1,14 @@
 # README
 
+<p align="center"><img src="https://www.netsetsoftware.com/images2/logonetset.png"></p>
+<h1>Rails api demo standard</h1>
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.3.0
 
 * System dependencies
 
