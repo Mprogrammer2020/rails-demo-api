@@ -15,13 +15,13 @@
 7. Conditional GETs: Rails handles conditional GET (ETag and Last-Modified) processing request headers and returning the correct response headers and status code. All you need to do is use the stale? check in your controller, and Rails will handle all of the HTTP details for you.
 8. HEAD requests: Rails will transparently convert HEAD requests into GET ones, and return just the headers on the way out. This makes HEAD work reliably in all Rails APIs.
 
-Configuration:
+# Configuration:
 
 Ruby version 2.3.0
 Rails version 5.1.3
 Postgres 
 
-Run the following commands on terminal
+# Run the following commands on terminal
 
  1. bundle 
  2. rake db:create
